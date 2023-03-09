@@ -12,3 +12,5 @@ https://github.com/emelyany4eff/DataCleaningProject
 
 ### Follow Me
 [![VK](https://img.shields.io/badge/-VKontakte-ffe13c?style=for-the-badge&logo=vk&logoColor=2c6aa2)](https://vk.com/emelyany4eff)
+
+[![Emelyany4eff's GitHub stats](https://github-readme-stats.vercel.app/api?username=emelyany4eff&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
