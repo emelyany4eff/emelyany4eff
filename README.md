@@ -4,7 +4,7 @@
 I'm beginner Software Engineer & Data-Scientist (Python/SQL)
 
 ### Contact with Me
-<a hrev="https://vk.com/emelyany4eff"> 
+<a href="https://vk.com/emelyany4eff"> 
   <img align="left" alt="emelyany4eff | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
 </a>
 
