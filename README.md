@@ -11,3 +11,4 @@ https://github.com/emelyany4eff/DataCleaningProject
 ![Python](https://img.shields.io/badge/-Python-ffe13c?style=for-the-badge&logo=python&logoColor=2c6aa2)
 
 ### Follow Me
+[![VK]](https://vk.com/emelyany4eff)
