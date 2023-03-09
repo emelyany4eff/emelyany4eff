@@ -4,8 +4,8 @@
 I'm beginner Software Engeneer & data-scientist
 
 ## My projects:
-https://github.com/emelyany4eff/Data_Science_Project_1
-https://github.com/emelyany4eff/DataCleaningProject
+!https://github.com/emelyany4eff/Data_Science_Project_1
+!https://github.com/emelyany4eff/DataCleaningProject
 
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-ffe13c?style=for-the-badge&logo=python&logoColor=2c6aa2)
