@@ -9,11 +9,9 @@ https://github.com/emelyany4eff/Data_Science_Project_1
 https://github.com/emelyany4eff/DataCleaningProject
 
 ### Languages and Tools
-![Python](https://img.shields.io/badge/-Python-274b57?style=for-the-badge&logo=python&logoColor=2c6aa2)
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" />
+<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-
 
 ### Follow Me
 [![VK](https://img.shields.io/badge/-VKontakte-274b57?style=for-the-badge&logo=vk&logoColor=2c6aa2)](https://vk.com/emelyany4eff)
