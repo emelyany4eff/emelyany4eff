@@ -8,6 +8,6 @@ https://github.com/emelyany4eff/Data_Science_Project_1
 https://github.com/emelyany4eff/DataCleaningProject
 
 ### Languages and Tools
-![Python](https://img.shields.io/badge/-Python-2c6da8??style=for-the-badge&logo=python&logoColor=2c6aa2)
+![Python](https://img.shields.io/badge/-Python-ffe13c?style=for-the-badge&logo=python&logoColor=2c6aa2)
 
 ### Follow Me
