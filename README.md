@@ -6,7 +6,6 @@ I'm beginner Software Engineer & Data-Scientist (Python/SQL)
 ### Follow Me
 [![VK](https://img.shields.io/badge/-VKontakte-274b57?style=for-the-badge&logo=vk&logoColor=2c6aa2)](https://vk.com/emelyany4eff)
 [<img align="left" alt="VladKalachev | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
-[vk]: https://vk.com/emelyany4eff
 
 ## My projects:
 https://github.com/emelyany4eff/Data_Science_Project_1
