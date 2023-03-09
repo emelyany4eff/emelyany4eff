@@ -1,6 +1,6 @@
 ![Header](https://github.com/emelyany4eff/emelyany4eff/blob/master/dream_TradingCard.jpg)
 
-## About me:
+### About me:
 I'm beginner Software Engineer & Data-Scientist (Python/SQL)
 
 <br />
@@ -12,7 +12,7 @@ I'm beginner Software Engineer & Data-Scientist (Python/SQL)
 
 <br />
 
-## My projects:
+### My projects:
 https://github.com/emelyany4eff/Data_Science_Project_1
 
 https://github.com/emelyany4eff/DataCleaningProject
