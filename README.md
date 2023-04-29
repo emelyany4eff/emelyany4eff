@@ -22,5 +22,5 @@ https://github.com/emelyany4eff/DataCleaningProject
 ### Languages and Tools
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" />
+<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://wiki.postgresql.org/images/3/30/PostgreSQL_logo.3colors.120x120.png" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
